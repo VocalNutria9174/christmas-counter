@@ -8,14 +8,6 @@
   color: lime;
 }
 
-.bottom-text {
-  text-align: center;
-  font-size: 32px;
-  margin-top: 0px;
-  font-family: 'Ubuntu Mono', monospace;
-  color: lime;
-}
-
 *{
   margin: 0;
   padding: 0;
